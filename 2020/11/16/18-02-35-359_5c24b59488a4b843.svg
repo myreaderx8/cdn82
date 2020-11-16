@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="707.46875"
+   height="1072.3517"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="payment-reversible-2.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend"
+       style="overflow:visible">
+      <path
+         id="path3770"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Mend"
+       style="overflow:visible">
+      <path
+         id="path3776"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         inkscape:connector-curvature="0" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-3"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3770-9"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-4"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3770-1"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5005"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5007"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-7"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3770-8"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow1Lend-47"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3770-2"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5212"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5214"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow1Lend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="marker5216"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path5218"
+         d="M 0,0 5,-5 -12.5,0 5,5 0,0 z"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt"
+         transform="matrix(-0.8,0,0,-0.8,-10,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="287.89319"
+     inkscape:cy="467.81734"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2985"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true"
+       originx="-120px"
+       originy="-2282.5116px" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-30.00001,-45.01062)">
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987"
+       width="260"
+       height="200"
+       x="40"
+       y="52.362183" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="60"
+       y="92.362183"
+       id="text3757"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3759"
+         x="60"
+         y="92.362183">Opening Tx</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 300,132.36218 185.95703,-1.0195 0,30"
+       id="path3761"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="320"
+       y="172.36218"
+       id="text4393"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4395"
+         x="320"
+         y="172.36218">$10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="340"
+       y="72.362183"
+       id="text4397"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="340"
+         y="72.362183"
+         id="tspan4401">Needs: my sig. and</tspan><tspan
+         sodipodi:role="line"
+         x="340"
+         y="117.36218"
+         id="tspan4624">your sig.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="217.97852"
+       y="141.85242"
+       id="text4618"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4620"
+         x="217.97852"
+         y="141.85242">Output</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987-3"
+       width="260"
+       height="200"
+       x="475.95703"
+       y="161.34268" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="525"
+       y="185.93361"
+       id="text4644"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4646"
+         x="525"
+         y="185.93361">Transaction 2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="486.42856"
+       y="260.93362"
+       id="text4648"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4650"
+         x="486.42856"
+         y="260.93362">My sig</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="485.95703"
+       y="301.34268"
+       id="text4652"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4654"
+         x="485.95703"
+         y="301.34268">&lt;Your sig goes here!&gt;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 515.95703,361.34268 0,90"
+       id="path4656"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 675.95703,361.34268 0,228.5312"
+       id="path4656-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="405.95703"
+       y="411.34268"
+       id="text4393-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4395-1"
+         x="405.95703"
+         y="411.34268">$9.98</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="575.95703"
+       y="411.34268"
+       id="text4393-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4395-3"
+         x="575.95703"
+         y="411.34268">$0.02</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="395.95703"
+       y="481.34268"
+       id="text4397-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="395.95703"
+         y="481.34268"
+         id="tspan4624-5">Needs:</tspan><tspan
+         sodipodi:role="line"
+         x="395.95703"
+         y="526.34265"
+         id="tspan4935"> my sig</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="560"
+       y="479.87387"
+       id="text4397-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="560"
+         y="479.87387"
+         id="tspan4624-9">Needs:</tspan><tspan
+         sodipodi:role="line"
+         x="560"
+         y="524.8739"
+         id="tspan4937"> your sig3</tspan><tspan
+         sodipodi:role="line"
+         x="560"
+         y="569.8739"
+         id="tspan5098">&amp; my sig.</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987-3-1"
+       width="260"
+       height="200"
+       x="450.95703"
+       y="595.28302" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="500"
+       y="619.8739"
+       id="text4644-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4646-4"
+         x="500"
+         y="619.8739">Transaction 2a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="461.42856"
+       y="694.87396"
+       id="text4648-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4650-5"
+         x="461.42856"
+         y="694.87396">Your sig3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="460.95703"
+       y="735.28302"
+       id="text4652-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4654-9"
+         x="460.95703"
+         y="735.28302">My sig</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="467.14285"
+       y="664.50507"
+       id="text5136"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5138"
+         x="467.14285"
+         y="664.50507"
+         style="font-weight:normal;-inkscape-font-specification:Sans"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5140">LOCKTIME:</tspan> 1 day</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 610.00001,794.87388 0,90"
+       id="path4656-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="500"
+       y="844.8739"
+       id="text4393-4-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4395-1-1"
+         x="500"
+         y="844.8739">$0.02</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="490"
+       y="914.8739"
+       id="text4397-4-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="490"
+         y="914.8739"
+         id="tspan4624-5-2">Needs:</tspan><tspan
+         sodipodi:role="line"
+         x="490"
+         y="959.8739"
+         id="tspan4935-7"> your sig</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987-3-6"
+       width="260"
+       height="200"
+       x="110.00001"
+       y="311.34268" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="159.04298"
+       y="335.93362"
+       id="text4644-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4646-8"
+         x="159.04298"
+         y="335.93362">Transaction 1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="120.47153"
+       y="410.93362"
+       id="text4648-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4650-50"
+         x="120.47153"
+         y="410.93362">My sig</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="120.00001"
+       y="451.34268"
+       id="text4652-26"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4654-91"
+         x="120.00001"
+         y="451.34268">&lt;Your sig goes here!&gt;</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 150.00001,511.34268 0,90"
+       id="path4656-1"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 310.00001,511.34268 0,228.5312"
+       id="path4656-4-8"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="40.000011"
+       y="561.34271"
+       id="text4393-4-33"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4395-1-9"
+         x="40.000011"
+         y="561.34271">$9.99</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="210.00002"
+       y="561.34271"
+       id="text4393-2-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4395-3-9"
+         x="210.00002"
+         y="561.34271">$0.01</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="30.00001"
+       y="631.34271"
+       id="text4397-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="30.00001"
+         y="631.34271"
+         id="tspan4624-5-0">Needs:</tspan><tspan
+         sodipodi:role="line"
+         x="30.00001"
+         y="676.34271"
+         id="tspan4935-9"> my sig</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="194.04298"
+       y="629.8739"
+       id="text4397-2-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="194.04298"
+         y="629.8739"
+         id="tspan4624-9-0">Needs:</tspan><tspan
+         sodipodi:role="line"
+         x="194.04298"
+         y="674.8739"
+         id="tspan4937-9"> your sig2</tspan><tspan
+         sodipodi:role="line"
+         x="194.04298"
+         y="719.8739"
+         id="tspan5098-0">&amp; my sig.</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect2987-3-1-3"
+       width="260"
+       height="200"
+       x="85.000008"
+       y="745.28302" />
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="134.04298"
+       y="769.8739"
+       id="text4644-1-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4646-4-2"
+         x="134.04298"
+         y="769.8739">Transaction 1a</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="95.471535"
+       y="844.87396"
+       id="text4648-4-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4650-5-6"
+         x="95.471535"
+         y="844.87396">Your sig2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="95.000008"
+       y="885.28302"
+       id="text4652-2-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4654-9-5"
+         x="95.000008"
+         y="885.28302">My sig</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:22px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans;-inkscape-font-specification:Sans"
+       x="101.18583"
+       y="814.50507"
+       id="text5136-2"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5138-1"
+         x="101.18583"
+         y="814.50507"
+         style="font-weight:normal;-inkscape-font-specification:Sans"><tspan
+   style="font-weight:bold;-inkscape-font-specification:Sans Bold"
+   id="tspan5140-5">LOCKTIME:</tspan> 1 day</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow1Lend)"
+       d="m 244.04299,944.87388 0,90.00002"
+       id="path4656-0-3"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="134.04298"
+       y="994.87396"
+       id="text4393-4-3-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4395-1-1-6"
+         x="134.04298"
+         y="994.87396">$0.01</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:36px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="124.04298"
+       y="1064.874"
+       id="text4397-4-0-6"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="124.04298"
+         y="1064.874"
+         id="tspan4624-5-2-5">Needs:</tspan><tspan
+         sodipodi:role="line"
+         x="124.04298"
+         y="1109.874"
+         id="tspan4935-7-7"> your sig</tspan></text>
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 170,604.86328 c 0,1.06757 -0.16273,2.1476 0,3.20269 0.21368,1.38544 1.352,1.86857 2.14286,2.85714 0.53628,0.67035 0.89229,1.47251 1.42857,2.14286 0.42069,0.52586 0.95238,0.95238 1.42857,1.42857 1.63288,1.63288 3.54173,3.25007 5,5 0.34083,0.409 0.39485,1.00265 0.71429,1.42857 0.80812,1.0775 2.01576,1.80542 2.85714,2.85715 1.29625,0.83512 1.30986,2.46077 2.14286,3.57142 0.74635,0.99514 1.95599,1.956 2.85714,2.85715 0.37604,0.37604 1.76137,1.95211 2.14286,2.14285 0.21295,0.10648 0.54592,-0.16835 0.71428,0 0.16836,0.16836 -0.16836,0.54593 0,0.71429 0.33672,0.33672 1.09186,-0.33672 1.42857,0 0.16836,0.16836 -0.16836,0.54593 0,0.71429 0.33672,0.33671 1.09186,-0.33672 1.42857,0 0.16836,0.16835 -0.16835,0.54592 0,0.71428 0.16836,0.16836 0.47669,-0.0153 0.71429,0 1.66772,0.10762 3.33333,0.24583 5,0.36874"
+       id="path6282"
+       inkscape:connector-curvature="0"
+       transform="translate(30.00001,45.01062)" />
+    <path
+       style="fill:none;stroke:#ff0000;stroke-width:3;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 170,634.86328 c 0.71429,-0.12291 2.01994,-1.08302 2.14286,-0.36874 0.12291,0.71429 -2.65536,0.88124 -2.14286,0.36874 0.94238,-0.94238 2.47425,-1.04077 3.57143,-1.79731 7.87483,-5.42993 -0.40272,-0.41225 2.85714,-2.85714 0.68677,-0.51508 1.45609,-0.9135 2.14286,-1.42857 0.26937,-0.20203 0.45135,-0.50394 0.71428,-0.71429 0.92961,-0.74368 1.9426,-1.38073 2.85715,-2.14286 0.51734,-0.43112 0.88982,-1.02451 1.42857,-1.42857 0.42592,-0.31944 1.05211,-0.33782 1.42857,-0.71428 0.37646,-0.37647 0.29855,-1.09599 0.71429,-1.42858 0.83146,-0.66517 2.02567,-0.7634 2.85714,-1.42857 0.41573,-0.33258 0.33782,-1.05211 0.71428,-1.42857 0.37647,-0.37646 0.98559,-0.41896 1.42858,-0.71428 0.28016,-0.18678 0.47619,-0.47619 0.71428,-0.71429 0.47619,-0.2381 0.98559,-0.41897 1.42857,-0.71429 1.41504,0.0713 0.33783,-1.05211 0.71429,-1.42857 0.60702,-0.60702 1.45608,-0.91349 2.14286,-1.42857 0.53874,-0.40406 0.82623,-1.1274 1.42857,-1.42857 0.21296,-0.10648 0.51618,0.13207 0.71428,0 0.56033,-0.37355 0.95238,-0.95238 1.42857,-1.42857 0.47619,-0.47619 0.95239,-0.95238 1.42858,-1.42857 0.47619,-0.47619 0.88982,-1.02451 1.42857,-1.42857 0.42592,-0.31944 0.98559,-0.41897 1.42857,-0.71429 0.28016,-0.18678 0.41312,-0.5637 0.71428,-0.71429 0.21296,-0.10648 0.50133,0.10648 0.71429,0 2.97269,-1.48634 -0.7636,0.0493 0.71429,-1.42857 0.16835,-0.16836 0.54592,0.16836 0.71428,0 0.16836,-0.16836 -0.16836,-0.54592 0,-0.71428 0.16836,-0.16836 0.47619,0 0.71429,0 0.23809,0 0.71428,-0.2381 0.71428,0 0,0.23809 -0.94934,0.0379 -0.71428,0 0.94708,-0.15272 1.90476,-0.23036 2.85714,-0.34555"
+       id="path6284"
+       inkscape:connector-curvature="0"
+       transform="translate(30.00001,45.01062)" />
+  </g>
+</svg>
